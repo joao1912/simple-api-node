@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/health", function(__, res) {
 
-  res.send("is health!")
+  res.send("is health updated!")
 
 })
 
