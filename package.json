@@ -1,0 +1,15 @@
+{
+  "name": "simple-api-node",
+  "version": "1.0.0",
+  "description": "simple api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
